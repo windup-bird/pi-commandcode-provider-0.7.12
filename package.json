@@ -1,6 +1,6 @@
 {
-  "name": "pi-commandcode-provider",
-  "version": "0.7.12",
+  "name": "pi-commandcode-provider-pin",
+  "version": "0.7.12-fork.1",
   "description": "pi custom provider for Command Code API (commandcode.ai)",
   "type": "module",
   "keywords": [
@@ -12,11 +12,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/patlux/pi-commandcode-provider.git"
+    "url": "git+https://github.com/windup-bird/pi-commandcode-provider-0.7.12.git"
   },
-  "homepage": "https://github.com/patlux/pi-commandcode-provider#readme",
+  "homepage": "https://github.com/windup-bird/pi-commandcode-provider-0.7.12#readme",
   "bugs": {
-    "url": "https://github.com/patlux/pi-commandcode-provider/issues"
+    "url": "https://github.com/windup-bird/pi-commandcode-provider-0.7.12/issues"
   },
   "files": [
     "index.ts",
